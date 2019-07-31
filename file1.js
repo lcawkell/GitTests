@@ -1,3 +1,3 @@
-function MyNewFunction() {
-    return "I am function 1";
+function MyNewFunction(num) {
+    return "I am function " + num;
 }
